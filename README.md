@@ -110,6 +110,11 @@ The main grading criteria will be:
     2. Have you created the required number of visualizations for each tab of the dashboard?
     3. Have you captured the correct metrics, chart types, chart features and titles for each visualization?
     4. Are the results correct?
+
+Result here: 
+
+    https://github.com/Regenald09/Building-Dashboard-with-IBM-Cognos-Analytics/blob/main/IBM%20Cognos%20Analytics/Part%20A%20-%20Building%20A%20Dashboard%20With%20IBM%20Cognos%20Analytics.pdf
+    
 ## 🚀 About Me
 Just wanted to share the knowledge.
 
